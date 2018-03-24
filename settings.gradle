@@ -2,4 +2,4 @@ include 'greeting-library'
 include 'greeter'
 include 'docs'
 
-rootProject.name = 'creating-multi-project-builds'
+rootProject.name = 'gradle-demo'
